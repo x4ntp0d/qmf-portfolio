@@ -101,7 +101,11 @@ All colors MUST be HSL.
   }
 
   .hero-shell {
-    justify-content: center;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    text-align: center;
+    padding: 4rem 1.5rem 3rem;
   }
 
   .posts-shell {
