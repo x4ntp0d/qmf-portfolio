@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node modules
 node_modules/
 
@@ -30,3 +31,6 @@ Thumbs.db
 
 # Optional: cache directories
 .cache/
+=======
+node_modules
+>>>>>>> 156a578e (First commit)
